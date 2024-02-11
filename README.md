@@ -1,5 +1,66 @@
 # JavaScript Topics
 
+## [Basic Syntax and Concepts](#basic-syntax-and-concepts)
+
+## [Advanced Concepts](#advanced-concepts)
+
+## [DOM Manipulation](#dom-manipulation)
+
+## [Browser APIs](#browser-apis)
+
+## [Modern JavaScript Features](#modern-javascript-features)
+
+## [ES6+ Features](#es6-features)
+
+## [JavaScript Tooling](#javascript-tooling)
+
+## [Frameworks and Libraries](#frameworks-and-libraries)
+
+## [State Management](#state-management)
+
+## [Server-side JavaScript](#server-side-javascript)
+
+## [Testing and Debugging](#testing-and-debugging)
+
+## [Performance Optimization](#performance-optimization)
+
+## [Security](#security)
+
+## [Progressive Web Apps (PWAs)](#progressive-web-apps-pwas)
+
+## [WebAssembly (Wasm)](#webassembly-wasm)
+
+## [Machine Learning in JavaScript](#machine-learning-in-javascript)
+
+## [WebGL and 3D Graphics](#webgl-and-3d-graphics)
+
+## [Functional Programming in JavaScript](#functional-programming-in-javascript)
+
+## [Design Patterns](#design-patterns)
+
+## [TypeScript](#typescript)
+
+## [Web Components](#web-components)
+
+## [Accessibility](#accessibility)
+
+## [Cross-platform Development](#cross-platform-development)
+
+## [GraphQL](#graphql)
+
+## [Serverless Architecture](#serverless-architecture)
+
+## [Microservices](#microservices)
+
+## [Blockchain and Cryptocurrency](#blockchain-and-cryptocurrency)
+
+## [WebRTC](#webrtc)
+
+## [Web Development Best Practices](#web-development-best-practices)
+
+## [Emerging Trends](#emerging-trends)
+
+
 ## Basic Syntax and Concepts
 
 ### Variables
