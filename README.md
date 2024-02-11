@@ -1,64 +1,64 @@
 # JavaScript Topics
 
-## [Basic Syntax and Concepts](#basic-syntax-and-concepts)
+- [Basic Syntax and Concepts](#basic-syntax-and-concepts)
 
-## [Advanced Concepts](#advanced-concepts)
+- [Advanced Concepts](#advanced-concepts)
 
-## [DOM Manipulation](#dom-manipulation)
+- [DOM Manipulation](#dom-manipulation)
 
-## [Browser APIs](#browser-apis)
+- [Browser APIs](#browser-apis)
 
-## [Modern JavaScript Features](#modern-javascript-features)
+- [Modern JavaScript Features](#modern-javascript-features)
 
-## [ES6+ Features](#es6-features)
+- [ES6+ Features](#es6-features)
 
-## [JavaScript Tooling](#javascript-tooling)
+- [JavaScript Tooling](#javascript-tooling)
 
-## [Frameworks and Libraries](#frameworks-and-libraries)
+- [Frameworks and Libraries](#frameworks-and-libraries)
 
-## [State Management](#state-management)
+- [State Management](#state-management)
 
-## [Server-side JavaScript](#server-side-javascript)
+- [Server-side JavaScript](#server-side-javascript)
 
-## [Testing and Debugging](#testing-and-debugging)
+- [Testing and Debugging](#testing-and-debugging)
 
-## [Performance Optimization](#performance-optimization)
+- [Performance Optimization](#performance-optimization)
 
-## [Security](#security)
+- [Security](#security)
 
-## [Progressive Web Apps (PWAs)](#progressive-web-apps-pwas)
+- [Progressive Web Apps (PWAs)](#progressive-web-apps-pwas)
 
-## [WebAssembly (Wasm)](#webassembly-wasm)
+- [WebAssembly (Wasm)](#webassembly-wasm)
 
-## [Machine Learning in JavaScript](#machine-learning-in-javascript)
+- [Machine Learning in JavaScript](#machine-learning-in-javascript)
 
-## [WebGL and 3D Graphics](#webgl-and-3d-graphics)
+- [WebGL and 3D Graphics](#webgl-and-3d-graphics)
 
-## [Functional Programming in JavaScript](#functional-programming-in-javascript)
+- [Functional Programming in JavaScript](#functional-programming-in-javascript)
 
-## [Design Patterns](#design-patterns)
+- [Design Patterns](#design-patterns)
 
-## [TypeScript](#typescript)
+- [TypeScript](#typescript)
 
-## [Web Components](#web-components)
+- [Web Components](#web-components)
 
-## [Accessibility](#accessibility)
+- [Accessibility](#accessibility)
 
-## [Cross-platform Development](#cross-platform-development)
+- [Cross-platform Development](#cross-platform-development)
 
-## [GraphQL](#graphql)
+- [GraphQL](#graphql)
 
-## [Serverless Architecture](#serverless-architecture)
+- [Serverless Architecture](#serverless-architecture)
 
-## [Microservices](#microservices)
+- [Microservices](#microservices)
 
-## [Blockchain and Cryptocurrency](#blockchain-and-cryptocurrency)
+- [Blockchain and Cryptocurrency](#blockchain-and-cryptocurrency)
 
-## [WebRTC](#webrtc)
+- [WebRTC](#webrtc)
 
-## [Web Development Best Practices](#web-development-best-practices)
+- [Web Development Best Practices](#web-development-best-practices)
 
-## [Emerging Trends](#emerging-trends)
+- [Emerging Trends](#emerging-trends)
 
 
 ## Basic Syntax and Concepts
